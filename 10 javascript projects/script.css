@@ -1,0 +1,23 @@
+body{
+  background-image: url("./kevin-nalty-HqJcy4svedE-unsplash.jpg");
+  align-items: center;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-weight: bold;
+}
+.container{
+  display: flex;
+}
+.big-text{
+  font-size: 4rem;
+  height: 1;
+  margin: 0 2rem;
+}
+.counting span{
+  font-size: 1.3rem;
+}
